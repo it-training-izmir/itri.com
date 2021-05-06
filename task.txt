@@ -23,13 +23,13 @@
 
 ########################################################
 
-1- index.html ######## name
+1- index.html ######## MESUT ÖZTÜRK
 	- 
 2- menu tasarımı ##### name
 	- 5 sayfanın bağlantı linki olmalı
 3- product.html ###### name
 	- içeriğinde projelerimizin linki olmalı
-4- about-us.html ###### name
+4- about-us.html ###### OSCAR KORDOĞAN
 	- içeriğinde bizden ve şirketimizden bahsetmeli
 5- contact.html ####### name
 	- içeriğinde, github hesaplarımızın linkleri olmalı
