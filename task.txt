@@ -27,7 +27,7 @@
 	- 
 2- menu tasarımı ##### name
 	- 5 sayfanın bağlantı linki olmalı
-3- product.html ###### name
+3- product.html ###### OLİVER ÖZDEMİR
 	- içeriğinde projelerimizin linki olmalı
 4- about-us.html ###### OSCAR KORDOĞAN
 	- içeriğinde bizden ve şirketimizden bahsetmeli
