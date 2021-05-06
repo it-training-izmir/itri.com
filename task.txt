@@ -31,5 +31,6 @@
 	- içeriğinde projelerimizin linki olmalı
 4- about-us.html ###### OSCAR KORDOĞAN
 	- içeriğinde bizden ve şirketimizden bahsetmeli
-5- contact.html ####### name
+5- contact.html ####### HAROLD FINCH
 	- içeriğinde, github hesaplarımızın linkleri olmalı
+
