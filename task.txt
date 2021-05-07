@@ -25,7 +25,7 @@
 
 1- index.html ######## MESUT ÖZTÜRK
 	- 
-2- menu tasarımı ##### name
+2- menu tasarımı #####  MFY
 	- 5 sayfanın bağlantı linki olmalı
 3- product.html ###### OLİVER ÖZDEMİR
 	- içeriğinde projelerimizin linki olmalı
