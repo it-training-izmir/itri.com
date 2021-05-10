@@ -11,3 +11,4 @@
        - HAROLD FINCH
        - OLİVER ÖZDEMİR
        - MFY
+       - OSCAR KORDOGAN
