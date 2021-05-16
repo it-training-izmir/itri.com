@@ -2,12 +2,62 @@
 <html lang="tr">
     <head>
         <title>ITRİ.COM</title>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
         <link rel="shortcut icon" href="images/itri.jpg" type="image/x-icon">
         <link rel="stylesheet" href="css/style.css">
     </head>
+    <style>
+        .product-container {
+            /* border: solid 1px black; */
+            padding: 20px 15px;
+            margin: 10px;
+            
+        }
+        .product-left {
+            background-color: #b6b5b1;
+            width: 40%;
+            min-height: 200px;
+            margin-left:25px;
+            float: left;
+            text-align: center;
+            font-size: 18px;
+            color: #741909;
+            border-radius: 10px;
+            
+​
+        }
+        .product-left:hover {
+            background-color: #dfd8bf;
+            padding: 10px;
+            margin-top: -10px;
+            margin-left: 15px;
+            color: #382009;
+            box-shadow: 5px 5px 10px 10px red;
+        }
+        .product-right {
+            background-color: #b6b5b1;
+            width: 40%;
+            min-height: 200px;
+            margin-right: 25px;
+            float: right;
+            text-align: center;
+            font-size: 18px;
+            color: #741909;
+            border-radius: 10px;
+        }
+        .product-right:hover {
+            background-color: #dfd8bf;
+            padding: 10px;
+            margin-top: -10px;
+            margin-right: 15px;
+            color: #382009;
+            box-shadow: 5px 5px 10px 10px red;
+        }
+​
+    </style>
     <body>
         <div class="container">
-
+​
             <!----------- header bölümü ---------------->
             <header>
                 <img src="images/itri.jpg" alt="itri">
@@ -20,15 +70,31 @@
                     </p>
                 </div>
             </header>
-
+​
             <!----------- menü bölümü ---------------->
             <nav>
-                Fatih abinin yeri.
+                
             </nav>
-
+​
             <!----------- içerik bölümü ---------------->
             <section>
-                OLİVER ÖZDEMİR
+                <div class="product-container">
+                    <a href="https://github.com/it-training-izmir/proje1" target="_blank">
+                        <div class="product-left">
+                            <h2>PROJE 1</h2>
+                            <p>Girilen sayfaları hesaplayan
+                                program.
+                            </p>
+                        </div>
+                    </a>
+                    <a href="https://github.com/it-training-izmir/itri.com" target="_blank">
+                        <div class="product-right">
+                            <h2>ITRİ.COM</h2>
+                            <p>ITRİ şirketinin resmi web sayfası</p>
+                        </div>
+                    </a>
+                    <div style="clear: both;"></div>
+                </div>
             </section>
             
             <!----------- footer bölümü ---------------->
@@ -52,7 +118,7 @@
                 </tr>
                 </table>
             </footer>
-
+​
         </div>
     </body>
 </html>
